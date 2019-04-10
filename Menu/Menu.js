@@ -35,4 +35,3 @@ const menuButtonElement = document.querySelector('.menu-button')
 const menuButton = new MenuButton(menuButtonElement)
 
 // Using your menuButton reference, add a click handler that calls toggleMenu
-
